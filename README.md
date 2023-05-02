@@ -1,5 +1,4 @@
-# base-project-spring-boot
-Base Project Spring Boot
+# Java Persistence API
 
 # Technologies
 
